@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science, AI & ML**
 
-- 🤝 I’m looking for help with **Inovations and Criativite**
+- 🤝 I’m looking for help with **Inovations and Criativity**
 
 - 👨‍💻 All of my projects are available at [https://joaquimmagode.github.io/Portifolio/](https://joaquimmagode.github.io/Portifolio/)
 
