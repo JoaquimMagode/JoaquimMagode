@@ -30,7 +30,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,bootstrap,c,css,docker,express,firebase,gcp,git,html,java,js,kubernetes,linux,mongodb,mysql,nextjs,nodejs,oracle,pandas,php,postgres,python,pytorch,react,spring,tensorflow,vue" />
+  <img src="https://skillicons.dev/icons?i=arduino,aws,bootstrap,c,css,docker,express,firebase,gcp,git,html,java,js,kubernetes,linux,mongodb,mysql,nextjs,nodejs,php,postgres,python,pytorch,react,spring,tensorflow,vue" />
 </p>
 
 ---
