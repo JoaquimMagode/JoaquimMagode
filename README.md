@@ -36,14 +36,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=joaquimmagode&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimmagode&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
----
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaquimmagode&theme=onedark&margin-w=10&margin-h=10&column=7" alt="Trophies" />
-</p>
