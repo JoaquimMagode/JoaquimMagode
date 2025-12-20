@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey there, I'm Joaquim Magode</h1>
-<h3 align="center">💻 Undergraduate Computer Science Student | 🌍 From Mozambique</h3>
+<h1 align="left">👋 Hey there, I'm Joaquim Magode</h1>
+<h3 align="left">💻 Undergraduate Computer Science Student | 🌍 From Mozambique</h3>
 
 ---
 
