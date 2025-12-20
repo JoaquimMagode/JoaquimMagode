@@ -26,19 +26,3 @@
 </a>
 </p>
 
----
-
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,bootstrap,c,css,docker,express,firebase,gcp,git,html,java,js,kubernetes,linux,mongodb,mysql,nextjs,nodejs,php,postgres,python,pytorch,react,spring,tensorflow,vue" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=joaquimmagode&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimmagode&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
-
